@@ -14,7 +14,7 @@ The optional **190 Expanded Boost** adds a Lua relationship-query optimization.
 Installation instructions in Korean, English, and Simplified Chinese are included in both download packages.
 Close the game before installation. The engine installer verifies the supported EXE hash,
 backs up the original, and supports restoration through `Restore.bat`.
-The optional pack loads automatically and can be disabled by removing its file.
+Enable the optional pack in your mod manager and place 190 Expanded Boost at the very top of the load order.
 Only install the 190 pack when using 190 Expanded.
 
 ## What this patch does
