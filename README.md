@@ -43,7 +43,7 @@ Other CPUs, all mod combinations, and long-term stability have not been verified
 The distribution's installation, reinstall, restore, unsupported-EXE rejection,
 Unicode/space paths, and DLL loading from the executable directory have been tested on copies/helper programs.
 The final distribution uses DLLs in the game directory instead of the development directory.
-That exact release-path configuration has not yet been tested in the actual game.
+Execution of the final release-path configuration was confirmed by fresh DLL logs from the actual game. End-to-end user confirmation remains pending.
 
 ## Source and build
 
